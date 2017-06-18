@@ -1,4 +1,4 @@
-mySpringMVC
+Spring MVC study
 ===========
 
 spring MVC
