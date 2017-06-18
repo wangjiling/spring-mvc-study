@@ -1,0 +1,52 @@
+#searchForm{
+    overflow: auto;
+    height:32px;
+}
+#searchForm .control-group {
+    float: left;
+}
+#searchForm .control-label {
+    width: 110px;
+}
+#searchForm .controls {
+    margin-left: 130px;
+}
+
+
+.serverItem .info{
+     background-image: none;
+     padding: 5px;
+     border-width: 0px;
+}
+.serverItem .info span{
+    padding: 0px 10px;
+    color:#f00;
+}
+.serverItem .info a{
+    display: inline-block;
+    float:right;
+    margin-right: 20px;
+}
+.serverItem .imgContainer{
+     width: 100%;
+     height: auto;
+}
+.serverItem .imgContainer .chart{
+     float: left;
+     margin: 5px;
+}
+.overall{
+     width: 60%;
+}
+.dynamic{
+     width: 38%
+}
+.serverItem .imgContainer svg, .overall svg {
+  height: 300px;
+  min-width: 100px;
+  min-height: 100px;
+}
+#pageNum{
+    margin-bottom: 0px;
+
+}
